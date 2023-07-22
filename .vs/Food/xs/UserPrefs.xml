@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{08EBE5A7-B025-4299-9CCE-A8C88660AE98}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Food/Program.cs">
+    <Files>
+      <File FileName="Food/appsettings.json" />
+      <File FileName="Food/Databases/MongoConnection.cs" />
+      <File FileName="Food/Program.cs" Line="33" Column="1" />
+      <File FileName="Food/Controllers/FoodController.cs" />
+      <File FileName="Food/Services/FoodService.cs" />
+      <File FileName="Food/Models/FoodModel.cs" />
+      <File FileName="Food/appsettings.Development.json" />
+      <File FileName="Food/Properties/launchSettings.json" Line="20" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Food" expanded="True">
+            <Node name="Food" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Food PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
